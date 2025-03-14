@@ -1,2 +1,1 @@
-# EZ-works
 # EZ
